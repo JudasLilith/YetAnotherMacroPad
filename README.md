@@ -47,3 +47,10 @@ You'll need:
 * 1 x custom pcb board
 * 1 x Casing
 * 1 x Casing Cover
+
+
+
+
+
+#MISC
+The last two keys are blank inside the main.py file, I would recommend adding a (CTRL+ENTER) or a (CTRL+A) for the Freecad shortcuts.
