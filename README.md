@@ -3,7 +3,7 @@ A macropad to be used for Godot and Freecad. It has a save key, a delete key, an
 
 # gallery
 PCB image
-![PCB!]{../images/pcbImage.jpg}
+![PCB](../images/pcbImage.jpg)
 
 # BOM
 You'll need:
