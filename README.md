@@ -2,8 +2,39 @@
 A macropad to be used for Godot and Freecad. It has a save key, a delete key, and two custom keybinds.
 
 # gallery
+![](images/overall.jpg)
+
+
 PCB image
+
+
 ![](images/pcbImage.jpg)
+
+
+Schematic
+
+
+![](images/schematic.jpg)
+
+
+Casing Cover
+
+
+![](images/casingCover.jpg)
+
+
+Casing 
+
+
+![](images/casing.jpg)
+
+
+Assembly
+
+
+![](images/assembly.jpg)
+
+
 
 # BOM
 You'll need:
