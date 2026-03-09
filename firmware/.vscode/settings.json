@@ -1,0 +1,24 @@
+{
+    "circuitpythonsync.drivepath": "/run/media/comrade/CIRCUITPY",
+    "circuitpythonsync.doNotShowWelcome": true,
+    "circuitpythonsync.cpfullversion": "10.1.3",
+    "circuitpythonsync.cpbaseversion": "10",
+    "circuitpythonsync.curlibtag": "20260307",
+    "python.languageServer": "Pylance",
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingModuleSource": "none",
+        "reportShadowedImports": "none"
+    },
+    "circuitpython.board.version": null,
+    "python.analysis.extraPaths": [
+        "/home/comrade/.config/VSCodium/User/globalStorage/padgettholdings.circuitpythonsync/stubs/circuitpython_stubs-10.1.3/board_definitions/seeeduino_xiao_rp2040",
+        "/home/comrade/.vscode-oss/extensions/wmerkens.vscode-circuitpython-v2-0.3.4/boards/0x2886/0x0042",
+        "/home/comrade/.vscode-oss/extensions/wmerkens.vscode-circuitpython-v2-0.3.4/stubs",
+        "/home/comrade/.config/VSCodium/User/globalStorage/wmerkens.vscode-circuitpython-v2/bundle/20260307/adafruit-circuitpython-bundle-py-20260307/lib",
+        "/home/comrade/.config/VSCodium/User/globalStorage/padgettholdings.circuitpythonsync/stubs/circuitpython_stubs-10.1.3"
+    ],
+    "circuitpython.board.vid": "0x2886",
+    "circuitpython.board.pid": "0x0042",
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "circuitpythonsync.cpboardname": "seeeduino_xiao_rp2040"
+}
